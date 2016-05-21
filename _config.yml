@@ -1,0 +1,10 @@
+gems:
+  - jekyll-redirect-from
+
+title: JOSEPH
+redirect_from:
+  - /
+
+title: JOSEPH-CV
+redirect_from:
+  - /cv
